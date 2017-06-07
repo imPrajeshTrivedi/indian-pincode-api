@@ -1,7 +1,7 @@
 # indian-pincode-api
 All India Pincode Directory
 
-API of Postal Index Numbers (PIN) of India Post is a webservices providing access to metada of PIN code numbers of Post Offices in India. The API accepts HTTP GET/POST calls and returns JSON formatted responses.
+API of Postal Index Numbers (PIN) of India Post is a webservices providing access to metada of PIN code numbers of Post Offices in India. The API accepts HTTP GET/POST calls and returns JSON formatted responses. More than 900000 Pincode Information available , there can be multiple Json objects for single Pincode with different Postal Index address/location Information.
 
 ## Parameters:
 
