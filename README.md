@@ -18,7 +18,7 @@ API of Postal Index Numbers (PIN) of India Post is a webservices providing acces
 - StateName (string) – name of state.
 
 For `YOURKEY Generation`
-go to http://api.rbpt.tech/pincode
+go to http://api.rbpt.tech/APIpincode.php
 ---
 
 For more help on laying out the document or using the $pincode & $key variable see the example.php file!
